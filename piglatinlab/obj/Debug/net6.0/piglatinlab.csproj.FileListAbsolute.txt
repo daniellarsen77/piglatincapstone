@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\bin\Debug\net6.0\piglatinlab.exe
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\bin\Debug\net6.0\piglatinlab.deps.json
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\bin\Debug\net6.0\piglatinlab.runtimeconfig.json
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\bin\Debug\net6.0\piglatinlab.dll
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\bin\Debug\net6.0\piglatinlab.pdb
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.dll
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\refint\piglatinlab.dll
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.pdb
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\piglatinlab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\piglatinlab\piglatinlab\obj\Debug\net6.0\ref\piglatinlab.dll
